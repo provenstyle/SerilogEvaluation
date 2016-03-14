@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogEvaluation", "ConsoleApplication1\SerilogEvaluation.csproj", "{18C6E73C-6A12-4A37-8592-25D7FC4F1891}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogEvaluation", "SerilogEvaluation\SerilogEvaluation.csproj", "{18C6E73C-6A12-4A37-8592-25D7FC4F1891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
